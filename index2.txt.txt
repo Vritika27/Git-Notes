@@ -1,1 +1,1 @@
-Utility function for GitHub version 1.
+Utility function for GitHub version 2.
